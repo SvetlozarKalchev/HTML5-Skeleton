@@ -2,7 +2,7 @@
 
 This is a complete HTML5 page template. Save time with your projects by using it. It's lighter than HTML5 Boilerplate and include all needed social meta tags. Bootstrap 3.0 is also included.
 
-<img src="http://mattrobinsoncv.neocities.org/bootstrap.jpg" style="width: 80px; height: 80px;">
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boostrap_logo.svg/100px-Boostrap_logo.svg.png>
 
 ### Features
 * HTML5 Template
