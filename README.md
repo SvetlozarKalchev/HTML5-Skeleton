@@ -15,6 +15,7 @@ This is a complete HTML5 page template. It's lighter than HTML5 Boilerplate and 
 * Latest Bootstrap Minified - Loads from CDN 
 * Bootstrap Carousel Start Script Included
 
+---
 
 ### To Add
 * Pinterest Meta Elements
