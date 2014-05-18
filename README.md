@@ -1,6 +1,6 @@
 ## HTML5 Skeleton ##
 
-This is a complete HTML5 page template. Save time with your projects by using it. It's lighter than HTML5 Boilerplate and include all needed social meta tags. Bootstrap 3.0 is also included.
+This is a complete HTML5 page template. It's lighter than HTML5 Boilerplate and includes all needed social meta tags. Bootstrap 3.0 is also included. Save time with your projects by never having to start from scratch!
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boostrap_logo.svg/100px-Boostrap_logo.svg.png) &nbsp;
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Facebook_f_logo_2013.png/100px-Facebook_f_logo_2013.png) &nbsp;
